@@ -1,0 +1,10 @@
+   #navbar {
+       display: flex;
+       justify-content: space-around;
+       background-color: teal;
+   }
+
+   #navbar>h3 a {
+       color: white;
+
+   }
